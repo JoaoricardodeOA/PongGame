@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyGame",
+    "\\MyGame\\MyGame",
+    "\\MyGame\\MyGame\\bin",
+    "\\MyGame\\MyGame\\bin\\Debug",
+    "\\MyGame\\MyGame\\bin\\Debug\\net6.0",
+    "\\MyGame\\MyGame\\bin\\Debug\\net6.0\\Content",
+    "\\MyGame\\MyGame\\Content"
+  ],
+  "SelectedNode": "\\MyGame\\MyGame\\Game1.cs",
+  "PreviewInSolutionExplorer": false
+}
